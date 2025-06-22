@@ -1,0 +1,11 @@
+.hero-bg {
+    background: linear-gradient(to right, #0066ff, #00c6ff);
+    min-height: 300px;
+  }
+  .resume-btn {
+    transition: transform 0.2s ease;
+  }
+  .resume-btn:hover {
+    transform: scale(1.05);
+  }
+  
