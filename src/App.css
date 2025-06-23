@@ -32,6 +32,7 @@ a {
 
 
 
+
 .section-title {
   color: #007BFF;
   font-weight: bold;
@@ -50,4 +51,11 @@ a {
 .btn-primary:hover {
   background-color: #0056b3;
   border-color: #004999;
+}
+.social-icon {
+  transition: transform 0.2s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
 }
